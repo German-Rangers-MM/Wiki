@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started/Das Template.md",
+                "file": "Advanced/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Template"
+              "title": "index"
+            }
+          },
+          {
+            "id": "36334e1e950a78eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "c6e314608324ba7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Das Template.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Das Template"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -112,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/Das Template.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Das Template"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -139,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Das Template.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Das Template"
+              "title": "Outline of index"
             }
           }
         ]
@@ -163,19 +192,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "c6e314608324ba7c",
   "lastOpenFiles": [
-    "Getting Started/Der Aufbau.md",
-    "Getting Started/Die Waffenkammer.md",
     "Getting Started/Lima Supplypoints.md",
-    "Getting Started/index.md",
-    "index.md",
+    "Advanced/Die Waffenkammer im Detail.md",
+    "Getting Started/Die Waffenkammer.md",
     "Getting Started/Das Template.md",
+    "Advanced/index.md",
+    "index.md",
+    "Untitled.md",
+    "Getting Started/index.md",
+    "Advanced",
+    "SanWiki/Stuff/Einfacher Blutdruck.png",
+    "SanWiki/Stuff/Ace-Interact.png",
+    "SanWiki/Stuff/Einfacher Puls.png",
+    "SanWiki/Stuff/Schnellansicht.png",
+    "SanWiki/Stuff/Triage.png",
+    "SanWiki/GerRng Sani Wiki.pdf",
+    "SanWiki/Medic Menü.png",
+    "SanWiki/Stuff/project Dateien/Untersuchen - Behandeln.pdn",
+    "SanWiki/Stuff/project Dateien/San-Menü.pdn",
+    "SanWiki/Stuff/project Dateien/San-Menü-Kat.pdn",
+    "SanWiki/Stuff/project Dateien",
+    "SanWiki/Pictures to link/Übersicht-KAT.png",
+    "SanWiki/Pictures to link/Übersicht.png",
+    "SanWiki/Pictures to link/Status-Avatar.png",
+    "SanWiki/Pictures to link/Status-Avatar-Old.png",
+    "SanWiki/Old/Sanität%3AMaterial.wikitext",
+    "SanWiki/Old/Sanität%3AFremdversorgung.wikitext",
+    "SanWiki/Old/Sanität%3AEigenversorgung.wikitext",
+    "SanWiki/Old/Sanität%3AACE-Medic-Menü.wikitext",
+    "Getting Started/Der Aufbau.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "Getting Started.md",
-    "Getting Started 1.md",
-    "Getting Started",
-    "category-folder"
+    "Getting Started 1.md"
   ]
 }

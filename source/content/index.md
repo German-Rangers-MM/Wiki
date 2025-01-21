@@ -6,4 +6,4 @@ Ein kleines Vorwort, diese Wiki basiert auf dem Quarzt 4 Framework und wird in M
 
 Jeder Anfang ist schwer, dem entsprechend empfiehlt es sich, sich mit den Grundzügen einer Mission vertraut zu machen, dafür kannst du deine Aufmerksamkeit auf [[Getting Started/]] lenken.
 
-Solltest du schon Erfahrung mitbringen empfiehlt sich die Volltextsuche oben links auszufragen oder die Ordnerstrukturen darunter durchzustöbern.
+Solltest du schon Erfahrung mitbringen empfiehlt sich die Volltextsuche oben links auszufragen oder die Ordnerstrukturen wie [[Advanced/]] darunter durchzustöbern.
