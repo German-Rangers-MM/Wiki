@@ -114,6 +114,13 @@
     --callout-icon: var(--callout-icon-quote);
   }
 
+    &[data-callout="warning"] {
+    --color: #db8942;
+    --border: #db894244;
+    --bg: #db894210;
+    --callout-icon: var(--callout-icon-wip);
+  }
+
   &.is-collapsed > .callout-title > .fold-callout-icon {
     transform: rotateZ(-90deg);
   }
