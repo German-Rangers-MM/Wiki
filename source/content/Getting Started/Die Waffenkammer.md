@@ -1,6 +1,6 @@
 ---
 title: Die Waffenkammer
-draft: true
+draft: false
 tags:
   - getting-started
   - script

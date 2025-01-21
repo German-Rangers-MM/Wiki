@@ -1,6 +1,6 @@
 ---
 title: Das Template
-draft: true
+draft: false
 tags:
   - getting-started
   - template

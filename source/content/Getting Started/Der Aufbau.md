@@ -1,6 +1,6 @@
 ---
 title: Der Aufbau
-draft: true
+draft: false
 tags:
   - getting-started
 description: Hier findest du alles was du zum Aufbau einer einfachen Mission brauchst!

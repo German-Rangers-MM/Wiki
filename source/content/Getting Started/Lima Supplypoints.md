@@ -1,6 +1,6 @@
 ---
 title: Lima Supplypoints
-draft: true
+draft: false
 tags:
   - getting-started
   - script
