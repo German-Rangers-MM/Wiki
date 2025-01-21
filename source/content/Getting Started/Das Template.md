@@ -10,3 +10,6 @@ aliases:
   - Template
   - MM-Template
 ---
+
+ > [!wip]
+ > Diese Seite ist noch Work-in-Progress

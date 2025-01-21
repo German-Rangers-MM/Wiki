@@ -11,3 +11,6 @@ aliases:
   - Waffenkammer
   - Loadouts
 ---
+
+ > [!wip]
+ > Diese Seite ist noch Work-in-Progress

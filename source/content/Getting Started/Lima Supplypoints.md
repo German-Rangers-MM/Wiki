@@ -12,3 +12,6 @@ aliases:
   - Supplypoint
   - Logistik-Point
 ---
+
+ > [!wip]
+ > Diese Seite ist noch Work-in-Progress
