@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started/Das Template.md",
+                "file": "Getting Started/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Template"
+              "title": "index"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Das Template.md",
+                "file": "Getting Started/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Das Template"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/Das Template.md",
+                "file": "Getting Started/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Das Template"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Das Template.md"
+                "file": "Getting Started/index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Das Template"
+              "title": "Outline of index"
             }
           }
         ]
@@ -165,14 +165,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "index.md",
+    "Getting Started/Das Template.md",
     "Getting Started/Der Aufbau.md",
     "Getting Started/Die Waffenkammer.md",
     "Getting Started/index.md",
     "Getting Started/Lima Supplypoints.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
-    "Getting Started/Das Template.md",
     "Getting Started.md",
     "Getting Started 1.md",
     "Getting Started",

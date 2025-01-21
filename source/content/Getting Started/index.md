@@ -5,7 +5,4 @@ tags:
   - getting-started
 description: Hier findest du alles was du zum Durchstarten im Missionmaking brauchst!
 ---
- - [[Das Template]]
- - [[Der Aufbau]]
- - [[Die Waffenkammer]]
- - [[Lima Supplypoints]]
+Die hier aufgelisteten Dokumente gehen alles durch was du als Grund für den Missionsbau brauchst!
