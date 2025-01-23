@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Advanced/Die Waffenkammer im Detail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Die Waffenkammer im Detail"
             }
           }
         ],
@@ -194,12 +194,12 @@
   },
   "active": "c6e314608324ba7c",
   "lastOpenFiles": [
+    "index.md",
     "Getting Started/Lima Supplypoints.md",
     "Advanced/Die Waffenkammer im Detail.md",
     "Getting Started/Die Waffenkammer.md",
     "Getting Started/Das Template.md",
     "Advanced/index.md",
-    "index.md",
     "Untitled.md",
     "Getting Started/index.md",
     "Advanced",
