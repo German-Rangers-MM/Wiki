@@ -13,7 +13,7 @@ Dieser Abschnitt beinhaltet:
 - Wie der [[Aufbau]] einer Mission aussehen kann
 - Wie die [[Waffenkammer]] und [[Loadouts]] funktionieren
 - Wie Limas [[Supplypoints]] funktionieren
-- Wie die [[File-Struktur/]] einer Mission aussieht
+- Wie die [[Getting Started/File-Struktur/]] einer Mission aussieht
 
 
 Solltest du schon Erfahrung mitbringen empfiehlt sich die Volltextsuche oben links auszufragen oder die Ordnerstrukturen wie [[Advanced/]] darunter durchzustöbern.
