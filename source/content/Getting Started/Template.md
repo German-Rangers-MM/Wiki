@@ -1,5 +1,5 @@
 ---
-title: Das Template
+title: Template
 draft: false
 tags:
   - getting-started
