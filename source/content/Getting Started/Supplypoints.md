@@ -1,5 +1,5 @@
 ---
-title: Lima Supplypoints
+title: Supplypoints
 draft: false
 tags:
   - getting-started
