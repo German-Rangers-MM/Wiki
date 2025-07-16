@@ -1,5 +1,5 @@
 ---
-title: Der Aufbau
+title: Aufbau
 draft: false
 tags:
   - getting-started

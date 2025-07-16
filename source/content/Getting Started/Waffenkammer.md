@@ -1,5 +1,5 @@
 ---
-title: Die Waffenkammer
+title: Waffenkammer
 draft: false
 tags:
   - getting-started
